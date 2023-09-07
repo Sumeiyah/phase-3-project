@@ -93,4 +93,5 @@ def generate_report_cli(course_id):
 def calculate_averages_cli(course_id):
     calculate_class_averages(course_id)
     click.echo("Class averages calculated.")
+    
 
