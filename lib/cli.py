@@ -94,5 +94,3 @@ def calculate_averages_cli(course_id):
     calculate_class_averages(course_id)
     click.echo("Class averages calculated.")
 
-if __name__ == '__main__':
-    cli()
