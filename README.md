@@ -1,4 +1,4 @@
-# Student Grade Generator
+# Student Grade Tracker
 
 
 ## Description
