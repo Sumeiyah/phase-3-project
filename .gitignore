@@ -1,0 +1,6 @@
+# Ignore virtual environment directories
+venv/
+
+# Ignore Python bytecode files and cache directories
+__pycache__/
+.pytest_cache/
