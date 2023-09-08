@@ -41,6 +41,8 @@ To use the Student Grade Tracker, follow the instructions provided in the CLI.
 
 3. Run the main.py file to start the CLI:
 
+4. make sure you are in the right directory iib and run your commands by adding
+   python main.py and command [argument]
 
 ## Author
 
